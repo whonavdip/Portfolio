@@ -439,11 +439,11 @@ a:hover{
     }
 
     .hero-portrait .pic {
-        width: 100%;
+        width: 50%;
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
-        background-image: url(/assets/images/Navdeep.png);
+        background-image: url(/assets/images/Navdeep.webp);
     }
 
     .hero-content{
